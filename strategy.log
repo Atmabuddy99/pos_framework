@@ -1,0 +1,112 @@
+2025-05-16 13:40:00,731 - INFO - Strategy date path1 D:\\ZFinal_Chains\\nifty_chain\2024-01-01.parquet
+2025-05-16 13:40:00,769 - INFO -  2024-01-01 : 09:15:00:Entry signal: Selling ATM PUT at strike 21650, current date is 2024-01-01 price 89.65, expiry 2024-01-04, delta -0.39, IV 0.14
+2025-05-16 13:40:01,053 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-01.parquet 
+2025-05-16 13:40:01,365 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-02.parquet 
+2025-05-16 13:40:01,687 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-03.parquet 
+2025-05-16 13:40:01,826 - INFO - Exit signal: True
+Position held for 0 days
+P&L: 141.25 (1.00%)
+Greeks: Delta=1.00 (+1.50), Theta=15.00, Vega=8.00
+IV: 5.00% (+0.00%)
+Time to expiry: 5.00 days
+2025-05-16 13:40:01,827 - INFO - Strategy exited position for expiry 2024-01-04 @ 12:00:00
+2025-05-16 13:40:01,827 - INFO - strat only after 12:00:00
+2025-05-16 13:40:01,827 - INFO - Strategy date path1 D:\\ZFinal_Chains\\nifty_chain\2024-01-04.parquet
+2025-05-16 13:40:01,836 - INFO - yes baby2024-01-04 2024-01-11nearest_expiry
+2025-05-16 13:40:01,863 - INFO -  2024-01-04 : 12:01:00:Entry signal: Selling ATM PUT at strike 21600, current date is 2024-01-04 price 6.0, expiry 2024-01-11, delta -0.21, IV 0.06
+2025-05-16 13:40:02,000 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-04.parquet 
+2025-05-16 13:40:02,032 - INFO -  2024-01-05 : 09:15:00:Entry signal: Selling ATM PUT at strike 21700, current date is 2024-01-05 price 94.75, expiry 2024-01-11, delta -0.44, IV 0.10
+2025-05-16 13:40:02,280 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-05.parquet 
+2025-05-16 13:40:02,280 - WARNING - No data found for date 2024-01-06 and expiry 2024-01-11
+2025-05-16 13:40:02,280 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-06.parquet 
+2025-05-16 13:40:02,280 - WARNING - No data found for date 2024-01-07 and expiry 2024-01-11
+2025-05-16 13:40:02,280 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-07.parquet 
+2025-05-16 13:40:02,565 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-08.parquet 
+2025-05-16 13:40:02,847 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-09.parquet 
+2025-05-16 13:40:02,897 - INFO -  2024-01-10 : 09:29:00:Entry signal: Selling ATM PUT at strike 21450, current date is 2024-01-10 price 77.35, expiry 2024-01-11, delta -0.51, IV 0.12
+2025-05-16 13:40:03,134 - INFO -  2024-01-10 : 15:04:00:Entry signal: Selling ATM PUT at strike 21600, current date is 2024-01-10 price 26.95, expiry 2024-01-11, delta -0.29, IV 0.13
+2025-05-16 13:40:03,150 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-10.parquet 
+2025-05-16 13:40:03,281 - INFO - Exit signal: True
+Position held for 0 days
+P&L: 113.25 (1.00%)
+Greeks: Delta=1.00 (+1.50), Theta=15.00, Vega=8.00
+IV: 5.00% (+0.00%)
+Time to expiry: 5.00 days
+2025-05-16 13:40:03,281 - INFO - Strategy exited position for expiry 2024-01-11 @ 12:00:00
+2025-05-16 13:40:03,281 - INFO - strat only after 12:00:00
+2025-05-16 13:40:03,281 - INFO - Strategy date path1 D:\\ZFinal_Chains\\nifty_chain\2024-01-11.parquet
+2025-05-16 13:40:03,297 - INFO - yes baby2024-01-11 2024-01-18nearest_expiry
+2025-05-16 13:40:03,325 - INFO -  2024-01-11 : 12:01:00:Entry signal: Selling ATM PUT at strike 21600, current date is 2024-01-11 price 6.8, expiry 2024-01-18, delta -0.17, IV 0.09
+2025-05-16 13:40:03,411 - INFO -  2024-01-11 : 14:13:00:Entry signal: Selling ATM PUT at strike 21550, current date is 2024-01-11 price 7.45, expiry 2024-01-18, delta -0.17, IV 0.16
+2025-05-16 13:40:03,452 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-11.parquet 
+2025-05-16 13:40:03,490 - INFO -  2024-01-12 : 09:15:00:Entry signal: Selling ATM PUT at strike 21700, current date is 2024-01-12 price 120.0, expiry 2024-01-18, delta -0.49, IV 0.10
+2025-05-16 13:40:03,751 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-12.parquet 
+2025-05-16 13:40:03,751 - WARNING - No data found for date 2024-01-13 and expiry 2024-01-18
+2025-05-16 13:40:03,752 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-13.parquet 
+2025-05-16 13:40:03,752 - WARNING - No data found for date 2024-01-14 and expiry 2024-01-18
+2025-05-16 13:40:03,752 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-14.parquet 
+2025-05-16 13:40:03,782 - INFO -  2024-01-15 : 09:15:00:Entry signal: Selling ATM PUT at strike 22000, current date is 2024-01-15 price 107.95, expiry 2024-01-18, delta -0.48, IV 0.12
+2025-05-16 13:40:04,025 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-15.parquet 
+2025-05-16 13:40:04,342 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-16.parquet 
+2025-05-16 13:40:04,382 - INFO -  2024-01-17 : 09:25:00:Entry signal: Selling ATM PUT at strike 21750, current date is 2024-01-17 price 76.75, expiry 2024-01-18, delta -0.46, IV 0.13
+2025-05-16 13:40:04,606 - INFO -  2024-01-17 : 14:43:00:Entry signal: Selling ATM PUT at strike 21550, current date is 2024-01-17 price 74.1, expiry 2024-01-18, delta -0.50, IV 0.16
+2025-05-16 13:40:04,648 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-17.parquet 
+2025-05-16 13:40:04,682 - INFO -  2024-01-18 : 09:16:00:Entry signal: Selling ATM PUT at strike 21350, current date is 2024-01-18 price 36.25, expiry 2024-01-18, delta -0.32, IV 0.16
+2025-05-16 13:40:04,799 - INFO - Exit signal: True
+Position held for 0 days
+P&L: -125.50 (1.00%)
+Greeks: Delta=1.00 (+1.50), Theta=15.00, Vega=8.00
+IV: 5.00% (+0.00%)
+Time to expiry: 5.00 days
+2025-05-16 13:40:04,799 - INFO - Strategy exited position for expiry 2024-01-18 @ 12:00:00
+2025-05-16 13:40:04,800 - INFO - strat only after 12:00:00
+2025-05-16 13:40:04,800 - INFO - Strategy date path1 D:\\ZFinal_Chains\\nifty_chain\2024-01-18.parquet
+2025-05-16 13:40:04,810 - INFO - yes baby2024-01-18 2024-01-25nearest_expiry
+2025-05-16 13:40:04,838 - INFO -  2024-01-18 : 12:01:00:Entry signal: Selling ATM PUT at strike 21450, current date is 2024-01-18 price 13.85, expiry 2024-01-25, delta -0.28, IV 0.10
+2025-05-16 13:40:04,869 - INFO -  2024-01-18 : 12:43:00:Entry signal: Selling ATM PUT at strike 21400, current date is 2024-01-18 price 11.55, expiry 2024-01-25, delta -0.25, IV 0.10
+2025-05-16 13:40:04,981 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-18.parquet 
+2025-05-16 13:40:05,020 - INFO -  2024-01-19 : 09:15:00:Entry signal: Selling ATM PUT at strike 21550, current date is 2024-01-19 price 113.65, expiry 2024-01-25, delta -0.39, IV 0.14
+2025-05-16 13:40:05,357 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-19.parquet 
+2025-05-16 13:40:05,699 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-20.parquet 
+2025-05-16 13:40:05,699 - WARNING - No data found for date 2024-01-21 and expiry 2024-01-25
+2025-05-16 13:40:05,699 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-21.parquet 
+2025-05-16 13:40:05,699 - WARNING - No data found for date 2024-01-22 and expiry 2024-01-25
+2025-05-16 13:40:05,700 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-22.parquet 
+2025-05-16 13:40:05,998 - INFO -  2024-01-23 : 13:56:00:Entry signal: Selling ATM PUT at strike 21250, current date is 2024-01-23 price 91.4, expiry 2024-01-25, delta -0.41, IV 0.19
+2025-05-16 13:40:06,089 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-23.parquet 
+2025-05-16 13:40:06,463 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-24.parquet 
+2025-05-16 13:40:06,644 - INFO - Exit signal: True
+Position held for 0 days
+P&L: 32.90 (1.00%)
+Greeks: Delta=1.00 (+1.50), Theta=15.00, Vega=8.00
+IV: 5.00% (+0.00%)
+Time to expiry: 5.00 days
+2025-05-16 13:40:06,644 - INFO - Strategy exited position for expiry 2024-01-25 @ 12:00:00
+2025-05-16 13:40:06,644 - INFO - strat only after 12:00:00
+2025-05-16 13:40:06,644 - INFO - Strategy date path1 D:\\ZFinal_Chains\\nifty_chain\2024-01-25.parquet
+2025-05-16 13:40:06,666 - INFO - yes baby2024-01-25 2024-02-01nearest_expiry
+2025-05-16 13:40:06,702 - INFO -  2024-01-25 : 12:01:00:Entry signal: Selling ATM PUT at strike 21250, current date is 2024-01-25 price 27.1, expiry 2024-02-01, delta -0.31, IV 0.16
+2025-05-16 13:40:06,882 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-25.parquet 
+2025-05-16 13:40:06,882 - WARNING - No data found for date 2024-01-26 and expiry 2024-02-01
+2025-05-16 13:40:06,882 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-26.parquet 
+2025-05-16 13:40:06,882 - WARNING - No data found for date 2024-01-27 and expiry 2024-02-01
+2025-05-16 13:40:06,882 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-27.parquet 
+2025-05-16 13:40:06,882 - WARNING - No data found for date 2024-01-28 and expiry 2024-02-01
+2025-05-16 13:40:06,882 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-28.parquet 
+2025-05-16 13:40:06,917 - INFO -  2024-01-29 : 09:15:00:Entry signal: Selling ATM PUT at strike 21450, current date is 2024-01-29 price 133.15, expiry 2024-02-01, delta -0.43, IV 0.19
+2025-05-16 13:40:07,187 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-29.parquet 
+2025-05-16 13:40:07,508 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-30.parquet 
+2025-05-16 13:40:07,831 - INFO - Strategy date path D:\\ZFinal_Chains\\nifty_chain\2024-01-31.parquet 
+2025-05-16 13:40:07,952 - INFO -  2024-02-01 : 11:02:00:Entry signal: Selling ATM PUT at strike 21800, current date is 2024-02-01 price 89.25, expiry 2024-02-01, delta -0.49, IV 0.24
+2025-05-16 13:40:07,998 - INFO - Exit signal: True
+Position held for 0 days
+P&L: -39.60 (1.00%)
+Greeks: Delta=1.00 (+1.50), Theta=15.00, Vega=8.00
+IV: 5.00% (+0.00%)
+Time to expiry: 5.00 days
+2025-05-16 13:40:07,999 - INFO - Strategy exited position for expiry 2024-02-01 @ 12:00:00
+2025-05-16 13:40:07,999 - INFO - strat only after 12:00:00
+2025-05-16 13:40:07,999 - INFO - Strategy date path1 D:\\ZFinal_Chains\\nifty_chain\2024-02-01.parquet
+2025-05-16 13:40:08,008 - INFO - yes baby2024-02-01 2024-02-08nearest_expiry
+2025-05-16 13:40:08,035 - INFO -  2024-02-01 : 12:01:00:Entry signal: Selling ATM PUT at strike 21650, current date is 2024-02-01 price 36.35, expiry 2024-02-08, delta -0.33, IV 0.19
+2025-05-16 13:40:08,200 - INFO - end date has been hit no more strategy running after this and there were some open positions 2024-02-08

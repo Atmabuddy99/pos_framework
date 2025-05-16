@@ -19,3 +19,5 @@ end_date=datetime.date(2024,2,1)
 from new_strategy import OutSellStrategy
 
 strategy.run(start_date=start_date,end_date=end_date,strategy_class=OutSellStrategy)
+
+print("chamned fucker")
