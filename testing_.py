@@ -20,4 +20,4 @@ from new_strategy import OutSellStrategy
 
 strategy.run(start_date=start_date,end_date=end_date,strategy_class=OutSellStrategy)
 
-print("chamned fucker")
+print("chamned fucker asshole ")
